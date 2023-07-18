@@ -1,0 +1,20 @@
+﻿<Window x:Class="KratekWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        d:DataContext="{d:DesignInstance Type=vm:MainWindowModel}"
+        xmlns:vm="clr-namespace:KratekWpf.ViewModel"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        xmlns:local="clr-namespace:KratekWpf"
+        mc:Ignorable="d"
+        Title="{Binding Title}" WindowStartupLocation="CenterScreen" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="{Binding StateConnectServer}" />
+            <TextBlock Text="{Binding ParametrWrite}"/>
+            <TextBlock Text="{Binding TextRefreshTimer}"/>
+            <Button HorizontalAlignment="Left" Command="{Binding RefreshCommand}">Refresh</Button>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+
+
+<input type="text" name="message" [(ngModel)]="message">
+<input type="text" name="message" [(ngModel)]="messageServer">
+
+
+<button (click)="ClickBut()">
+  Нажми
+</button>
+
+<button (click)="RefreshWanTerminal()">
+  Записать
+</button>
+
+<p *ngFor="let mes of messageReceive"> {{mes}} </p>
+
+<router-outlet></router-outlet>

@@ -1,0 +1,14 @@
+D:\Программирование\CandAngular\KratekData\bin\Debug\net6.0\KratekData.deps.json
+D:\Программирование\CandAngular\KratekData\bin\Debug\net6.0\KratekData.dll
+D:\Программирование\CandAngular\KratekData\bin\Debug\net6.0\KratekData.pdb
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\KratekData.csproj.AssemblyReference.cache
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\KratekData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\KratekData.AssemblyInfoInputs.cache
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\KratekData.AssemblyInfo.cs
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\KratekData.csproj.CoreCompileInputs.cache
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\KratekData.dll
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\refint\KratekData.dll
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\KratekData.pdb
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\ref\KratekData.dll
+D:\Программирование\CandAngular\KratekData\bin\Debug\net6.0\KratekData.runtimeconfig.json
+D:\Программирование\CandAngular\KratekData\obj\Debug\net6.0\KratekData.genruntimeconfig.cache

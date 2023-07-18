@@ -1,0 +1,16 @@
+D:\Программирование\CandAngular\KratekServices\bin\Debug\net6.0\KratekServices.deps.json
+D:\Программирование\CandAngular\KratekServices\bin\Debug\net6.0\KratekServices.dll
+D:\Программирование\CandAngular\KratekServices\bin\Debug\net6.0\KratekServices.pdb
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\KratekServices.csproj.AssemblyReference.cache
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\KratekServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\KratekServices.AssemblyInfoInputs.cache
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\KratekServices.AssemblyInfo.cs
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\KratekServices.csproj.CoreCompileInputs.cache
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\KratekServices.dll
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\refint\KratekServices.dll
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\KratekServices.pdb
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\ref\KratekServices.dll
+D:\Программирование\CandAngular\KratekServices\bin\Debug\net6.0\DataServices\ActualPorts\portsClient.json
+D:\Программирование\CandAngular\KratekServices\bin\Debug\net6.0\KratekData.dll
+D:\Программирование\CandAngular\KratekServices\bin\Debug\net6.0\KratekData.pdb
+D:\Программирование\CandAngular\KratekServices\obj\Debug\net6.0\KratekServices.csproj.CopyComplete
